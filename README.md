@@ -14,7 +14,7 @@ EstimateEstate is an AI-powered property valuation tool that provides instant, a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/EstimateEstate.git
+git clone https://github.com/shettysushanth933/EstimateEstate.git
 cd EstimateEstate
 ```
 
